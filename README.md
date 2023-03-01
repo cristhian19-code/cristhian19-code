@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Christian Aponte</h1>
 <h3 align="center">Soy Desarrollador Frontend con mas de 3 años de experiencia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristhian19-code&label=Profile%20views&color=0e75b6&style=flat" alt="cristhian19-code" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristhian19-code" alt="cristhian19-code" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Nest.js y Flutter**
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristhian19-code&show_icons=true&locale=en" alt="cristhian19-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristhian19-code&" alt="cristhian19-code" /></p>
-
