@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Christian Aponte</h1>
 <h3 align="center">Soy Desarrollador Frontend con mas de 3 años de experiencia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristhian19-code" alt="cristhian19-code" /></a> </p>
-
 - 🌱 Actualmente estoy aprendiendo **Nest.js y Flutter**
 
 - 👨‍💻 Todos mis proyectos lo puedes ver en [https://christian-front.vercel.app/](https://christian-front.vercel.app/)
