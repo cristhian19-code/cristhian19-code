@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Christian Aponte</h1>
-<h3 align="center">Soy Desarrollador Frontend con mas de 3 años de experiencia</h3>
+<h3 align="center">Soy Desarrollador Frontend con mas de 4 años de experiencia</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Nest.js y Flutter**
+- 🌱 Actualmente estoy aprendiendo **Node.js y React.js**
 
-- 👨‍💻 Todos mis proyectos lo puedes ver en [https://christian-front.vercel.app/](https://christian-front.vercel.app/)
+- 👨‍💻 Todos mis proyectos lo puedes ver en 
 
 - 💬 Pregúntame sobre **Vuejs**
 
